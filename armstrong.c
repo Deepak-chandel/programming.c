@@ -3,7 +3,7 @@
 {    
 int n,r,sum=0,temp; 
 
-printf("siddhant\n");
+printf("deepak\n");
 printf("enter the number=");    
 scanf("%d",&n);    
 temp=n;    
